@@ -29,9 +29,9 @@ export class Header extends Component {
                 
         <select name="menu" id="cars"className='ml-10 w-12 h-10 mt-3 rounded-l border-gray-500'>
         <option value="volvo">All</option>
-        <option value="saab">Saab</option>
-        <option value="mercedes">Mercedes</option>
-        <option value="audi">Audi</option>
+        <option value="Prime video">Prime video</option>
+        <option value="Movies and Tv">Movies and Tv</option>
+        <option value="Sports">Sports</option>
         </select>
         <input type='text' placeholder=" " className=' h-10 mt-3 w-5/12'/>
         <button style={{backgroundColor:"rgb(242,168,70)"}}className='h-10 mt-3 w-11 rounded-r'><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-10 h-6">
